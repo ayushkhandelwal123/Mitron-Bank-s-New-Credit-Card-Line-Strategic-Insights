@@ -1,6 +1,6 @@
-## Mitron-Bank-s-New-Credit-Card-Line-Strategic-Insights
+## Mitron Bank's New Credit Card Line Strategic Insights
 
-#### Project Details -
+### Project Details -
 
 In a pursuit for enhanced credit card offerings, Mitron Bank collaborated with AtliQ Services to analyze spending patterns and identify trends. Through tailored offers, our goal is to boost customer satisfaction, loyalty, and overall success.
 
